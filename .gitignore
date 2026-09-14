@@ -1,0 +1,6 @@
+output/
+__pycache__/
+*.pyc
+.history.json
+.workbuddy/
+.DS_Store
